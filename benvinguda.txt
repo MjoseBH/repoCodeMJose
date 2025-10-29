@@ -1,1 +1,7 @@
 MJose
+(A) Benvinguda a la branca01 MJose
+(B) Modificació 01 Main MJose
+(C) Benvinguda a la branca02 MJose
+(D) Modificació 02 Main MJose
+(E) Afegim imatge a branca01 MJose
+(F) Afegim imatge a branca02 MJose
